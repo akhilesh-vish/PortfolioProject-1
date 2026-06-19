@@ -1,4 +1,4 @@
-use [Portfolilo Project 1]
+use [PortfoliloProjects]
 
 --select *
 --from CovidDeaths
